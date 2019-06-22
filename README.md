@@ -1,7 +1,6 @@
-# Cessnas_Fate
-Fate Docs
+# The Sivis System
 
-##HISTORY
+## HISTORY
 General History of Bahuaro and Space Travel
 
 Several millenia before the modern day, the world was in turmoil. The nations of Bahuaro were at an uneasy truce in a decades long war, with tensions flaring on both sides.
